@@ -16,7 +16,7 @@ Class       = AntiVirus
 ClassGuid   = {b1d1a169-c54f-4379-81db-bee7d88d7454}
 Provider    = %ManufacturerName%
 CatalogFile = sysdiag.cat
-DriverVer   = 03/15/2022,5.0.67.2
+DriverVer   = 03/15/2022,5.0.73.7
 PnpLockDown = 1
 
 
@@ -111,7 +111,7 @@ HKR,%InstancesName%"\"%Instance1.Name%,%FlagsName%,0x00010001,%Instance1.Flags%
 [Strings]
 ManufacturerName        = "Huorong"
 DriverName              = "sysdiag"
-ServiceDesc             = "Huorong Network Security Core Kext"
+ServiceDesc             = "Huorong Internet Security Core Kext"
 ServiceName             = "sysdiag"
 DiskId                  = "sysdiag Device Installation Disk"
 
@@ -122,5 +122,5 @@ FlagsName               = "Flags"
 
 DefaultInstance         = "sysdiag"
 Instance1.Name          = "sysdiag"
-Instance1.Altitude      = "368330"
+Instance1.Altitude      = "324600"
 Instance1.Flags         = 0x0
