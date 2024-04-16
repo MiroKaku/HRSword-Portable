@@ -2,9 +2,9 @@
 
 ## Manual - 使用说明
 
-1. Right-click on the `sysdiag.inf/sysdiag_win10.inf` file and select the `Install` option.
+1. Right-click on the `sysdiag.inf` file and select the `Install` option.
 
-   右键选择 `sysdiag.inf/sysdiag_win10.inf` 文件后，选择 `安装` 选项。
+   右键选择 `sysdiag.inf` 文件后，选择 `安装` 选项。
 
 2. Run `HRSword.exe` with administrator privileges.
 
